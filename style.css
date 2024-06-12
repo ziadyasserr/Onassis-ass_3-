@@ -1,0 +1,112 @@
+.pic{
+    background-image: url('images/bg/header-bg.jpg'); 
+    height: 100%;
+    background-size: cover;
+}
+
+.textpic{
+    text-align: center;
+    font-size: 55PX;
+    color: white;
+    padding: 150px;
+    width: 75%;
+}
+
+.text{
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+
+}
+
+.textspan{
+    color:gray;
+    
+}
+
+.citiestext{
+    text-align: center;
+    margin: 0;
+    background-color: gainsboro;
+    padding: 50px;
+    font-size: 25px;
+}
+
+.cities{
+    float: left;
+    width: 25%;
+    background-color: gainsboro;
+    
+}
+
+.progress{
+    float: left;
+    width: 33.3333333%;
+    text-align: center;
+    background-color:whitesmoke ;
+    
+}
+
+.progresstext{
+    text-align: center;
+    margin: 0;
+    background-color: whitesmoke ;;
+    padding: 50px;
+    font-size: 25px;
+
+}
+
+.website{
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+
+.websiteimage{
+    background-image: url('images/bg/sec-works-bg.jpg');
+    height:70%;
+}
+
+.websitetext{
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+    color: white;
+}
+
+.bckabout{
+    background-color: whitesmoke;
+    height: 80%;
+    
+}
+
+.textabout{
+    text-align: center;
+    padding: 50px;
+    font-size: 18px;
+}
+
+.about{
+    width: 25%;
+    float: left;
+    text-align: center;
+    
+}
+
+.last{
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+    font-size: 18px;
+    height: 25%;
+}
+
+.textlast{
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+   
+}
+
+
+
